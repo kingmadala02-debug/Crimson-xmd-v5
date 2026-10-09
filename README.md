@@ -9,7 +9,32 @@
 
 
 
+# CRIMSON-XMD 🥀 - MADE BY KING MADALA
 
+![CRIMSON-XMD](https://i.imgur.com/8Km9tLL.png)
+
+> **Powerful Multi-Device WhatsApp Bot with 250+ Commands**
+> **Owner: KING MADALA - 254738072477**
+
+CRIMSON-XMD is a Powerful Multi-Device WhatsApp Bot with 250+ commands built on Baileys MD.
+
+**Features:**
+- AI ChatGPT (Gemini)
+- YouTube/TikTok/FB/IG Downloaders
+- Group Tools (tagall, kick, add, promote)
+- Sticker Maker, Auto Status View/Like, Anti-Delete, Auto React
+- Welcome/Goodbye, Anti-Link, Anti-Badword
+- Fast, secure, lightweight & 24/7 deployable on Render/Railway/Koyeb.
+
+**Bot Details:**
+- Prefix: .
+- Version: CRIMSON-XMD V5 - CRIMSON VERSION
+- Made By: KING MADALA
+
+### Deploy to Render
+[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com)
+
+> CRIMSON-XMD MADE BY KING MADALA - 254738072477 🥀
 
 
 
